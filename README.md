@@ -1,6 +1,6 @@
 Para testarmos as conexões MCP estarei usando uma imagem docker, para instalação de pacotes e sistemas.
 
-1 - Dockerfile
+1 - Dockerfile:
     Buid:
     * docker build -t opencode-ubuntu .
 
